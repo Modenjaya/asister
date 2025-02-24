@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Account 1",
+        "access_token": "your_access_token_for_account_1",
+        "enabled": true,
+        "headless": false
+    },
+    {
+        "name": "Account 2",
+        "access_token": "your_access_token_for_account_2",
+        "enabled": true,
+        "headless": true
+    },
+    {
+        "name": "Account 3",
+        "access_token": "your_access_token_for_account_3",
+        "enabled": false,
+        "headless": true
+    }
+]
